@@ -1,1 +1,6 @@
 Instrucciones
+Cada jugador cuenta con doce fichas que se pueden observar en pantalla, lado superior e inferior.                          
+Las fichas se colocan sobre las casillas oscuras, otorgando por teclado la fila y la columna en la que se encuentra, despues se procede a otorgar mediante la tecla la fila y columna donde se quiere mover la ficha.                             \n"
+Tener en cuenta que cuando la ficha llega a la fila inferior o superior(dependiento al lado del contricante), la ficha se convertira en una ficha reina, que puede ir de manera diagonal por mas de una casilla.                                   \n"
+NOTA : Observar si forzar salto esta activado o desactivado.
+La funcion forzar salto se encarga de que el jugador tenga que mover forzosamente una ficha con la condicion que pueda 'comer'
