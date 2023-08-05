@@ -1,0 +1,12 @@
+//
+// Created by solangel quiroga on 30/11/22.
+//
+
+#ifndef PROYECTO_PROGRAMACION2_TIPODEFICHA_H
+#define PROYECTO_PROGRAMACION2_TIPODEFICHA_H
+
+
+enum
+class TipoDeFicha { NORMAL, REINA };
+
+#endif //PROYECTO_PROGRAMACION2_TIPODEFICHA_H
